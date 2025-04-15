@@ -28,22 +28,22 @@ The Football League Management Application is a software solution designed to ma
 ---
 
 ## Project Structure
-
-Football_League_Management_Application<br/>
-├── src/<br/>
-│ ├── Accounts/ # Handles user accounts and authentication<br/>
-│ ├── GUI/ # Graphical user interface components<br/>
-│ ├── League/ # Core league management logic<br/>
-│ ├── Main/ # Entry point of the application<br/>
-│ ├── doc/ # Documentation files<br/>
-│ ├── legal/ # Licensing information<br/>
-│ ├── resource-files/ # CSS, fonts, and other resources<br/>
-│ └── script-files/ # JavaScript files for interactivity<br/>
-├── bin/ # Compiled class files<br/>
-├── README.md # Project overview<br/>
-├── LeagueData.txt # Sample league data<br/>
-└── OOP_CW1.iml # IntelliJ IDEA project file<br/>
-
+```
+Football_League_Management_Application
+├── src/
+│ ├── Accounts/         # Handles user accounts and authentication
+│ ├── GUI/              # Graphical user interface components
+│ ├── League/           # Core league management logic
+│ ├── Main/             # Entry point of the application
+│ ├── doc/              # Documentation files
+│ ├── legal/            # Licensing information
+│ ├── resource-files/   # CSS, fonts, and other resources
+│ └── script-files/     # JavaScript files for interactivity
+├── bin/                # Compiled class files
+├── README.md           # Project documentation
+├── LeagueData.txt      # Sample league data
+└── OOP_CW1.iml         # IntelliJ IDEA project file
+```
 ---
 
 ## Setup Instructions
