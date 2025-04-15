@@ -19,9 +19,11 @@ The Football League Management Application is a software solution designed to ma
 ---
 
 ## Technologies Used
+- [Java 17](https://www.java.com/en/): Primary language for application logic
+- [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html): For building the graphical user interface (GUI)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/): IDE used for development
+- Standard Java I/O: For reading and writing league data to LeagueData.txt text file
 
-- [IntelliJ IDEA](): 
-- [Java Swing](): 
 
 ---
 
@@ -50,7 +52,6 @@ Football_League_Management_Application<br/>
 
 - Java Development Kit (JDK) 17 or higher
 - Any Java IDE
-- Node.js (for managing JavaScript dependencies, if applicable)
 - Git (for cloning repository)
 
 ### Installation
@@ -63,7 +64,10 @@ Football_League_Management_Application<br/>
     ```
 
 2. Open the project in your preferred IDE
-3. Build the project to resolve dependencies and compile the source code.
+3. Build the project - Your IDE should automatically compile `.java` files, but if needed, run a build via your IDE's tools.
+4. Run the application:
+    - Navigate to the `Main` package inside `src/`
+    - Run the `Main` class to launch the GUI.
 
 
 ### Usage
