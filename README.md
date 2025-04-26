@@ -60,12 +60,17 @@ Football_League_Management_Application
 
     ```
     git clone https://github.com/Mattytomo365/Football-League-Management-Application.git
-    cd Football-League-Management-Application
     ```
 
-2. Open the project in your preferred IDE
-3. Build the project - Your IDE should automatically compile `.java` files, but if needed, run a build via your IDE's tools.
-4. Run the application:
+2. Navigate to the project directory:
+
+    ```
+    cd Football_League_Management_Application
+    ```
+
+3. Open the project in your preferred IDE
+4. Build the project - Your IDE should automatically compile `.java` files, but if needed, run a build via your IDE's tools.
+5. Run the application:
     - Navigate to the `Main` package inside `src/`
     - Run the `Main` class to launch the GUI.
 
